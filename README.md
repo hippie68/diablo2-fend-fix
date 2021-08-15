@@ -1,4 +1,4 @@
-Fixes the Fend bug in Diablo II LoD 1.14d by disabling Dodge and Avoid animations. The skills themselves still work, and the player will hear the Amazon's "hyah" sound when they trigger. Many thanks to EnPhreg and other forum users in this thread for sharing their finds:  
+Fixes the Fend bug in Diablo II LoD 1.14d by disabling Dodge and Avoid animations. The skills themselves still work, and the player will hear the Amazon's "hyah" sound when they trigger. To hear the sound, you will need to have at least 1 point in Evade. Many thanks to EnPhreg and other forum users in this thread for sharing their finds:  
 https://d2mods.info/forum/viewtopic.php?p=501489#p501489
 
 How to use:
